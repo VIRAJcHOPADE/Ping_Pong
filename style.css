@@ -1,5 +1,5 @@
 html{
-    background: linear-gradient(to top, black 30%, darkblue) fixed;
+    background: linear-gradient(to top, rgb(93, 213, 213) 30%, darkblue) fixed;
 }
 #container {
     position: relative;
